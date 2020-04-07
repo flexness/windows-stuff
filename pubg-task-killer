@@ -2,3 +2,10 @@ taskkill /f /im TslGame.exe
 taskkill /f /im TslGame_BE.exe
 taskkill /f /im ExecPubg.exe
 taskkill /f /im TslGame.exe
+
+REM This is a comment.
+REM You can start PUBG straight away if you want to.
+
+"%USERPROFILE%\Desktop\PLAYERUNKNOWN'S BATTLEGROUNDS.url"
+
+REM But you need a desktop-shortcut for this method.
